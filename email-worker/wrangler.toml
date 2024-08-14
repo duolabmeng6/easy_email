@@ -7,10 +7,6 @@ binding = "DB" # i.e. available in your Worker on env.DB
 database_name = "prod-d1-tutorial"
 database_id = "b1abe878-4dbb-4432-a28d-0aff95b46fd0"
 
-[vars]
-TURSO_DB_AUTH_TOKEN = ""
-TURSO_DB_URL = ""
-EMAIL_DOMAIN = "vmail.dev"
 
 # [[d1_databases]]
 # binding = "DB"
